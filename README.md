@@ -1,2 +1,2 @@
 # vidioten
-Databas med SQL och Java för videobutiken Vidioten
+Site with mysql db
